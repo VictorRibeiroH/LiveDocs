@@ -28,3 +28,7 @@ Usuários podem adicionar comentários.
 
 👉 **Responsividade:**  
 O aplicativo é responsivo em todos os dispositivos.
+
+## Demonstração
+
+Confira o projeto em funcionamento: [LiveDocs](https://vhrdocs.vercel.app/)
